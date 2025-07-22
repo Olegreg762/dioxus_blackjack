@@ -1,0 +1,36 @@
+# Rust build files
+/target/
+**/*.rs.bk
+
+# Cargo package files
+Cargo.lock
+
+# IDEs and editors
+/.idea/
+/.vscode/
+/*.swp
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS resource forks
+._*
+
+# Thumbnails
+._.DS_Store
+
+# macOS Finder settings
+Icon?
+.Trashes
+
+# Spotlight files
+.Spotlight-V100
+
+# Apple metadata
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
